@@ -1,3 +1,17 @@
 p {
-    color: mediumblue;
+    color: black;
+}
+.text{
+    font-size: 20px;
+    color: darkcyan;
+    align-content: center;
+}
+
+.mojimoji{
+    font-size: 23px;
+    color: firebrick;
+}
+
+.aaa{
+    text-align: center;
 }
